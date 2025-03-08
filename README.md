@@ -1,7 +1,25 @@
-> [!CAUTION]
-> 대한민국 헌법 제10조(인격권)와 제17조(사생활의 비밀과 자유)에 근거한 초상권 보호 대상이며, 개인정보보호법에 따른 개인정보에 해당합니다.<br>본 컨텐츠의 사용 ・ 복제 ・ 배포 ・ 공개는 손해배상 책임의 대상이 될 수 있으며, 이하동문 웹사이트 미러링도 금지하는 바입니다
+# 信續社 /신속사/
+>**사업자등록번호 620-03-81701**<br>1999년 6월 16일 개업
+<hr>
+<img src="http://t1.daumcdn.net/roughmap/imgmap/b823a7569eda6f4ca9a8d4e6f34de7f11f68f835fdcc2bf9ba46a28d41254a8b" width="500px" height="300px">
 
-![김명준](https://github.com/user-attachments/assets/d4497324-dab1-46e6-85d0-f36e85875dd4)
-![기본증명서](https://github.com/user-attachments/assets/181b7ace-c9b1-4e33-abc8-e0c262d0b7a5)
-![가족관계증명서](https://github.com/user-attachments/assets/814bbaf1-4d4e-4458-97a2-f764f1727681)
-![사업자등록증](https://github.com/user-attachments/assets/eb2817c7-0a99-4f2d-899e-26b87bae62b6)
+**주소** 울산 북구 연암동 381-12번지 1층 <a href="https://maps.app.goo.gl/35rkUrQMycmgmAze9">(35.58239, 129.36448)</a><hr>
+**인터넷** <a href="https://sinsoksa.com">sinsoksa.com</a>
+>[!TIP]
+>```PowerShell
+>ping ulsan.sinsoksa.com
+>```
+>>실시간 유동아이피주소 조회
+
+>[!CAUTION]
+>**동시간대 과도한 Ping 전송은 형사책임이 있을 수 있습니다**
+<hr>
+
+**전화** 052-288-6566<hr>
+**메일** sss052@daum.net / kim@sinsoksa.com<hr>
+**영업시간** 09:30 ~ 18:30 KST
+>[!WARNING]
+>**토/일요일, 공휴일 휴무**
+<hr>
+
+![정부24 - 사업자등록증명 발급 _ 문서출력](https://github.com/user-attachments/assets/993e947f-edab-480c-b9fa-8c300052cda1)
