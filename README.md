@@ -22,4 +22,4 @@
 >**토/일요일, 공휴일 휴무**
 <hr>
 
-![정부24 - 사업자등록증명 발급 _ 문서출력](https://github.com/user-attachments/assets/993e947f-edab-480c-b9fa-8c300052cda1)
+![정부24 - 사업자등록증명 발급 _ 문서출력](https://github.com/user-attachments/assets/ecf33fa6-0c7c-44c2-8c58-558dd9e3f709)
